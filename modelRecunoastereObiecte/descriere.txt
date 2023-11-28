@@ -1,0 +1,6 @@
+In acest model am folosit libraria 'TensorFlow' ajutata de folosirea unei camere conectate la Raspberry Pi pentru a capta imagini si a utiliza un model de invatare automata pentru recunoastere de obiecte.
+
+Comanda in bash pentru instalarea librariilor:
+pip install tensorflow
+
+Am folosit 'TensorFlow' si 'Keras' pentru a crea si antrena un model de invatare automata.

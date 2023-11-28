@@ -1,0 +1,4 @@
+Pentru un robot de tip 'DOGZILLA S1/S2' am incercat implementarea unor miscari simple folosind Q-learning. Pentru aceasta metoda am folosit 'OpenAI Gym' pentru un mediu de simulare.
+
+Comanda in bash pentru instalarea librariilor:
+pip install gym numpy

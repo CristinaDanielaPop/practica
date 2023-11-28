@@ -1,0 +1,4 @@
+Pentru un robot de tip 'DOGZILLA S1/S2' am incercat implementarea detectarii obiectelor care se bazeaza pe folosirea camerei si a senzorilor robotului. Am folosit libraria 'OpenCV' si un model MobileNet SSD pre-trained pentru detectarea obiectelor.
+
+Comanda in bash pentru instalarea librariilor:
+pip install opencv-python numpy
